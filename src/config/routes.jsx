@@ -35,11 +35,10 @@ const routes = (props) => {
       element: user ? (
         <Details {...props} />
       ) : (
-        // <Navigate to={PATHS.LOGINPAGE} replace />
-        <Details {...props} />
+        <Navigate to={PATHS.LOGINPAGE} replace />
+        // <Details {...props} />
       ),
     },
-    
   ];
 };
 
