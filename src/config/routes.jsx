@@ -3,6 +3,7 @@ import HomePage from "../pages/HomePage";
 import Login from "../pages/LogIn";
 import Signup from "../pages/Signup";
 import ProtectedPage from "../pages/ProtectedPage";
+import Details from "../components/CountryDetails";
 import * as PATHS from "../utils/paths";
 
 const routes = (props) => {
@@ -29,6 +30,16 @@ const routes = (props) => {
         <Navigate to={PATHS.LOGINPAGE} replace />
       ),
     },
+    {
+      path: PATHS.DETAILS,
+      element: user ? (
+        <Details {...props} />
+      ) : (
+        // <Navigate to={PATHS.LOGINPAGE} replace />
+        <Details {...props} />
+      ),
+    },
+    
   ];
 };
 

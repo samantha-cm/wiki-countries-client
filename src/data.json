@@ -1,0 +1,99 @@
+[
+    {
+        "name": "Finland",
+        "alpha3Code": "FIN",
+        "capital": "Helsinki",
+        "area": 338424,
+        "borders": ["NOR","SWE","RUS"],
+        "flag": "https://flagpedia.net/data/flags/w702/fi.png"
+    },
+    {
+        "name": "Switzerland",
+        "alpha3Code": "CHE",
+        "capital": "Bern",
+        "area": 41284,
+        "borders": ["AUT","FRA","ITA","LIE","DEU"],
+        "flag": "https://flagpedia.net/data/flags/w702/ch.png"
+    },
+    {
+        "name": "Netherlands",
+        "alpha3Code": "NLD",
+        "capital": "Amsterdam",
+        "area": 41850,
+        "borders": ["BEL","DEU"],
+        "flag": "https://flagpedia.net/data/flags/w702/nl.png"
+    },
+    {
+        "name": "Paname",
+        "alpha3Code": "PAN",
+        "capital": "Panama City",
+        "area": 75417,
+        "borders": ["COL","CRI"],
+        "flag": "https://flagpedia.net/data/flags/w702/pa.png"
+    },
+    {
+        "name": "China",
+        "alpha3Code": "CHN",
+        "capital": "Pekin",
+        "area": 9706961,
+        "borders": ["AFG","BTN","MMR","HKG","IND","KAZ","NPL","PRK","KGZ","LAO","MAC","MNG","PAK","RUS","TJK","VNM"],
+        "flag": "https://flagpedia.net/data/flags/w702/cn.png"
+    },
+    {
+        "name": "Italia",
+        "alpha3Code": "ITA",
+        "capital": "Roma",
+        "area": 10991,
+        "borders":["AUT", "FRA", "SMR", "SVN", "CHE", "VAT"],
+        "flag": "https://flagpedia.net/data/flags/w702/it.png"
+    },
+    {
+        "name": "Brasil",
+        "alpha3Code": "BRA",    
+        "capital": "Brasilia",
+        "area": 8515767,
+        "borders": ["ARG","BOL","COL","GUF","GUY","PRY","PER","SUR","URY","VEN"
+        ],
+        "flag": "https://flagpedia.net/data/flags/w702/br.png"
+    },
+    {
+        "name": "Colombia",
+        "alpha3Code": "COL",    
+        "capital": "Bogota",
+        "area": 1141748,
+        "borders": ["BRA", "ECU", "PAN", "PER", "VEN"],
+        "flag": "https://flagpedia.net/data/flags/w702/co.png"
+    },
+    {
+        "name": "Philippines",
+        "alpha3Code": "PHL",
+        "capital": "Manila",
+        "area": 342353,
+        "borders": [],
+        "flag": "https://flagpedia.net/data/flags/w702/ph.png"
+    },
+    {
+        "name": "South Africa",
+        "alpha3Code": "ZAF",
+        "capital": "Pretoria",
+        "area": 1221037,
+        "borders": ["BWA", "LSO", "MOZ", "NAM", "SWZ", "ZWE"],
+        "flag": "https://flagpedia.net/data/flags/w702/za.png"
+    },
+    {
+        "name": "Germany",
+        "alpha3Code": "DEU",
+        "capital": "Berlin",
+        "area": 357114,
+        "borders": ["AUT", "BEL", "CZE", "DNK", "FRA", "LUX", "NLD", "POL", "CHE"],
+        "flag": "https://flagpedia.net/data/flags/w702/de.png"
+    },
+    {
+        "name": "Mexico",
+        "alpha3Code": "MEX",
+        "capital": "Mexico City",
+        "area": 1964375,
+        "borders": ["BLZ", "GTM", "USA"],
+        "flag": "https://flagpedia.net/data/flags/w702/mx.png"
+    }
+]
